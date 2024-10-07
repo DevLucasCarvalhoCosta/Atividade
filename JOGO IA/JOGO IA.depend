@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1725409251 source:c:\users\fabiana\documents\jogo ia\main.cpp
+	<iostream>
+	<sstream>
+	<list>
+	<time.h>
+
